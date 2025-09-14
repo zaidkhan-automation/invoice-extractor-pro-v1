@@ -28,8 +28,7 @@ Uploads messy invoices → extracts structured data (Invoice No, Date, Vendor, T
 ---
 
 ## 🚀 Live App
-👉 [Try it here](https://invoice-extractor-pro-v1-xxxxx.streamlit.app)
-
+👉 [Try it here]https://invoice-extractor-pro-v1-n6bcpfasuqrgpslc3wxhqb.streamlit.app/
 ---
 
 ## 🛠 How to Run Locally
